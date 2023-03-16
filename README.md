@@ -1,9 +1,7 @@
 # Applied learning task 2: Analytics
 
-Leaving Certificate Computer Science includes how programming and computational thinking can be applied to the solution of problems, and how computing technology impacts the world around us. The online specification is [here]([https://curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/Introduction/]
-
-
-[Click here to go to Google](https://curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/Introduction/)
+Leaving Certificate Computer Science includes how programming and computational thinking can be applied to the solution of problems, and how computing technology impacts the world around us. 
+[The online specification is here.](https://curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/Introduction/)
 
 
 
