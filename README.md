@@ -1,6 +1,6 @@
 # Applied learning task 2: Analytics
 
-Leaving Certificate Computer Science includes how programming and computational thinking can be applied to the solution of problems, and how computing technology impacts the world around us. The online specification is [here]([https://www.google.com/](https://curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/Introduction/))
+Leaving Certificate Computer Science includes how programming and computational thinking can be applied to the solution of problems, and how computing technology impacts the world around us. The online specification is [here]([https://curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/Introduction/]
 
 
 Hypothesising, making predictions, examining evidence, recognising patterns and reaching conclusions are at the heart of computer science. In this applied learning task, students will identify an interdisciplinary topic, develop a hypothesis and utilise existing resources to highlight the salient information and inform future decisions. By identifying, analysing, and deconstructing a problem, students will deepen their understanding of practices and principles of computer science.
